@@ -1,3 +1,5 @@
+// Connect wallet function
+// ...existing code...
 import {
   uintCV,
   stringAsciiCV,
